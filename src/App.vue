@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>User List</h1>
+    <!-- <h1>User List</h1> -->
 
     <!-- Input form สำหรับเพิ่มผู้ใช้ใหม่ -->
     <div>
